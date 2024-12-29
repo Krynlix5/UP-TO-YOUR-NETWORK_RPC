@@ -6,4 +6,4 @@ Es un programa que permite mostrar en discord el estado para la comunidad UP TO 
 ## 🔍 En caso de necesitar soporte, contactar a ja5vii por discord
 
 > [!WARNING] 
-> Para que funcione el programa se necesita descargar [.NET SDK 9.0.101](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+> Para que funcione el programa, es necesario descargar [.NET SDK 9.0.101](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
